@@ -1,11 +1,11 @@
 # 📘 Library Management System – Database Project
 
-##📌 Objective
+## 📌 Objective
 
 This project is a relational database built with MySQL for managing a library.
 It helps track members, books, and borrowings.
 
-###🗂️ Database Schema
+### 🗂️ Database Schema
 
 The database consists of three tables:
 
@@ -29,7 +29,7 @@ Columns: borrowing_id, member_id, book_id, borrow_date, return_date.
 
 Contains foreign keys referencing members and books.
 
-###🔗 Relationships
+### 🔗 Relationships
 
 One-to-Many: One member → many borrowings.
 
