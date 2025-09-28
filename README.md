@@ -1,4 +1,5 @@
-#📘 Library Management System – Database Project
+# 📘 Library Management System – Database Project
+
 ##📌 Objective
 
 This project is a relational database built with MySQL for managing a library.
